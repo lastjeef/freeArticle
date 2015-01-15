@@ -1,1 +1,1 @@
-alert(document.URL);
+alert('test');
